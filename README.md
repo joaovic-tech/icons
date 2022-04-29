@@ -1,2 +1,32 @@
 # icons
-dev icons svg
+## dev icons svg
+### all icons
+----
+
+![behance](./behance.svg)
+![bootstrap](./bootstrap.svg)
+![codepen](./codepen.svg) 
+![css](./css.svg) 
+![docker](./docker.svg) 
+![figma](./figma.svg) 
+![frontpush](./frontpush.svg)
+![git](./git.svg)
+![github](./github.svg)
+![hdc](./hdc.svg)
+![jquery](./jquery.svg)
+![js](./js.svg)
+![typescript](./typescript.svg)
+![mysql](./mysql.svg)
+![nodejs](./nodejs.svg)
+![origamid](./origamid.svg)
+![reactjs](./reactjs.svg)
+![replit](./replit.svg)
+![rocketseat](./rocketseat.svg)
+![sass](./sass.svg)
+![terminal](./terminal.svg)
+![udemy](./udemy.svg)
+![uiexpert](./uiexpert.svg)
+![vscode](./vscode.svg)
+![vuejs](./vuejs.svg)
+![xd](./xd.svg)
+![languages](./languages.svg)

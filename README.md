@@ -15,6 +15,7 @@
 ![github](./svgs/github.svg)
 ![bootstrap](./svgs/bootstrap.svg)
 ![figma](./svgs/figma.svg) 
+![notion](./svgs/notion.svg) 
 ![mysql](./svgs/mysql.svg)
 ![terminal](./svgs/terminal.svg)
 ![vscode](./svgs/vscode.svg)

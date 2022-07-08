@@ -1,5 +1,14 @@
 # icons in svg
 ----
+
+### use the icons
+
+```markdown
+![react](./svgs/react.svg)
+```
+
+<h1 align="center">Icons</h1>
+
 ![html](./svgs/html.svg)
 ![css](./svgs/css.svg) 
 ![sass](./svgs/sass.svg)
@@ -26,4 +35,9 @@
 ![codepen](./svgs/codepen.svg) 
 ![hdc](./svgs/hdc.svg)
 ----
+
+<div align="center">
+
 ![languages](./svgs/languages.svg)
+  
+</div>
